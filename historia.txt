@@ -1,3 +1,3 @@
-mi nombre es Luis Zambrano 
-Estodio en la escuela de Desarrollo web
-esta es mi primera vez utilizando Git
+mi nombre es Luis Zambrano mi edad es 24 años
+Estodio actualmente en la escuela de Desarrollo web
+esta es mi primera vez utilizando Git.
